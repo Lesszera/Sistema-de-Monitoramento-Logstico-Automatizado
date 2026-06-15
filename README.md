@@ -60,7 +60,7 @@ Transportadora → Aba Transportadora → Apps Script → Aba Controle → Dashb
 
 ![Tela Transportadora](docs/tela-transportadora.png)
 
-Nessa tela o usuário apenas importa os dados da transportadora para servir como base de dados para o script puxar as informações.
+Nessa tela o usuário apenas importa os dados da planilha baixada no site da transportadora para servir como base de dados para o script puxar as informações atualizadas de rastreamento de cada nota fiscal.
 
 ## Tela Principal
 
@@ -92,7 +92,7 @@ O dashboard permite visualizar rapidamente:
 
 ## 🎬 Demonstração do Projeto
 
-👉 [Clique aqui para assistir a demo no YouTube](https://www.youtube.com/watch?v=SEU_VIDEO)
+👉 [Clique aqui para assistir a demo no YouTube](https://youtu.be/Niyhc0SxgzQ)
 
 ---
 
